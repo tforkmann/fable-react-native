@@ -1,0 +1,4 @@
+group Package
+    Fable.Core
+    Fable.React
+    Fable.Promise

@@ -1,3 +1,7 @@
-Fable.Core
-Fable.React
-Fable.Promise
+Fake.Core.Target
+Fake.IO.FileSystem
+Fake.Api.Github
+Fake.DotNet.Cli
+Fake.Core.UserInput
+Fake.Core.ReleaseNotes
+Fake.Tools.Git
